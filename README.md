@@ -1,10 +1,12 @@
-
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+<p align="center">
+  <img alt="Habits" src=".github/logo.svg" width="160px"/>
+</p>
 
 <p align="center">
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+<img  src="https://img.shields.io/static/v1?label=license&message=MIT&color=8257E5&labelColor=000000" alt="License">  
 </p>
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
+![App Screenshot](.github/Cover.jpg)
 
 
 ## Tech Stack
@@ -18,7 +20,7 @@
 
 ## Description
 
-fullsrack habits monitoring project done during Rocketseat's NLW Setup
+Fullsrack habits monitoring project done during Rocketseat's NLW Setup
 ## Run Locally
 
 Clone the project
@@ -88,6 +90,15 @@ Start the server
 ```
 
 
+## Layout
+
+You can view the project layout through the link below:
+
+- [Layout](https://www.figma.com/community/file/1195326661124171197) 
+
+Remembering that you need to have an account on [Figma](http://figma.com/).
+
+
 ## License
 
-Esse projeto está sob a licença [MIT](https://choosealicense.com/licenses/mit/). Veja o arquivo [LICENSE]() para mais detalhes.
+This project is under the [MIT](https://choosealicense.com/licenses/mit/) license. For more details see the [LICENSE](LICENSE.md) file.
