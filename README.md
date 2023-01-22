@@ -20,7 +20,7 @@
 
 ## Description
 
-Fullsrack habits monitoring project done during Rocketseat's NLW Setup
+Fullstack habits monitoring project done during Rocketseat's NLW Setup
 ## Run Locally
 
 Clone the project
